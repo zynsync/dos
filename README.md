@@ -4,6 +4,6 @@
 本html仅供
 # **交流与学习用!**😡
 >快捷访问:
-># https://zsc41888.github.io/dos
+># https://zynsync.github.io/dos
 # 我的官网:
-> https://zsc41888.github.io/com
+> https://zynsync.github.io/com
