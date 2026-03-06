@@ -6,4 +6,4 @@
 >快捷访问:
 ># https://zynsync.github.io/dos
 # 我的官网:
-> https://zynsync.github.io/com
+> https://zynsync.github.io/zscnb
